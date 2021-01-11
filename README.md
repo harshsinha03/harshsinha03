@@ -1,5 +1,5 @@
 ### Hello Everyone 👋 I am [Harsh](https://harshsinha03.github.io)
-
+😄 Pronouns: he/his/him
 <!--
 **harshsinha03/harshsinha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

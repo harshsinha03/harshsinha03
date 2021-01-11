@@ -1,4 +1,10 @@
 ### Hello Everyone 👋 I am [Harsh](https://harshsinha03.github.io)
+
+About me💿 - 
+* I love reading.📚
+* I am a freshman pursuing my Bachelors in Computer Science & Engineering.💻
+
+What am i doing these days? - I’m currently working on open source, improving myself🤓
 😄 Pronouns: he/his/him
 <!--
 **harshsinha03/harshsinha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

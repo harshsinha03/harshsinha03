@@ -2,7 +2,7 @@
 
 About me💿 - 
 * I love reading.📚
-* I am a freshman pursuing my Bachelors in Computer Science & Engineering.💻
+* I am a sophomore pursuing my Bachelors in Computer Science & Engineering.💻
 
 What am i doing these days? - I’m currently working on open source, improving myself🤓
 
